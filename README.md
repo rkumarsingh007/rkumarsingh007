@@ -101,5 +101,4 @@ Hi, I’m Raj—a software engineer with a love for solving real-world problems.
 *Army Institute of Technology, Pune*
 
 
-Let’s build something great together! 🚀  
-![image](https://github.com/user-attachments/assets/98deb041-cbcc-4b02-9436-be7e5337ba88)
+Let’s build something great together! 🚀 
